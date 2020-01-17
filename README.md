@@ -27,7 +27,7 @@ My favorite other references are:
 * [Machine Learning in Python with scikit-learn tutorials by Data School](https://www.youtube.com/playlist?list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A)
 
 # Tutorials
-## Data Science Tools
+### Data Science Tools
 * [1 - Python Cheat Sheet](Tutorial%201%20-%20Python%20Cheat%20Sheet.ipynb)
 * [2 - numpy](Tutorial%202%20-%20Numpy.ipynb)
 * [3 - matplotlib](Tutorial%203%20-%20Plots%20with%20matplotlib.ipynb)
