@@ -1,8 +1,9 @@
 # PatternRecognition2020
-PHYS 453 - Pattern Recognition for Spring 2020
+Dr. Daugherity - Abilene Christian University  
+PHYS 453 - Pattern Recognition for Spring 2020  
 
 Previous Semesters are here:
-[Spring 2018](https://github.com/mdaugherity/PatternRecognition2018/)
+* [Spring 2018](https://github.com/mdaugherity/PatternRecognition2018/)
 
 ## Installation
 
@@ -27,4 +28,7 @@ My favorite other references are:
 * [1 - Python Cheat Sheet](Tutorial%201%20-%20Python%20Cheat%20Sheet.ipynb)
 * [2 - numpy](Tutorial%202%20-%20Numpy.ipynb)
 * [3 - matplotlib](Tutorial%203%20-%20Plots%20with%20matplotlib.ipynb)
+* [4 - pandas](Tutorial%204%20-%20Pandas.ipynb)
+* [5 - seaborn](Tutorial%205%20-%20Seaborn.ipynb)
+
 
