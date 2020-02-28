@@ -30,5 +30,20 @@ My favorite other references are:
 * [3 - matplotlib](Tutorial%203%20-%20Plots%20with%20matplotlib.ipynb)
 * [4 - pandas](Tutorial%204%20-%20Pandas.ipynb)
 * [5 - seaborn](Tutorial%205%20-%20Seaborn.ipynb)
+* [6 - sklearn](Tutorial%206%20-%20Scikit%20Learn.ipynb)
+### Supervised Learning
+* [7 - Nearest Neighbors](Tutorial%207%20-%20Nearest%20Neighbors.ipynb)
+* [8 - Decision Trees](Tutorial%208%20-%20Decision%20Trees.ipynb)
+* [9 - Bayesian](Tutorial%209%20-%20Bayesian%20Classifier.ipynb)
+* [10 - Digits Dataset](Tutorial%2010%20-%20Digits%20Dataset.ipynb)
+
+## Homework
+[Homework](Homework)
+
+## Lecture Slides
+[Slides](Slides)
+
+## Class Work
+[Class Work](Class%20Work)
 
 
