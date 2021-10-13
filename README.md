@@ -36,6 +36,7 @@ My favorite other references are:
 * [8 - Decision Trees](Tutorial%208%20-%20Decision%20Trees.ipynb)
 * [9 - Bayesian](Tutorial%209%20-%20Bayesian%20Classifier.ipynb)
 * [10 - Digits Dataset](Tutorial%2010%20-%20Digits%20Dataset.ipynb)
+* [11 - Neural Networks](Tutorial%2011%20-%20Neural%20Networks.ipynb)
 
 ## Homework
 [Homework](Homework)
